@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    flex-direction: column;
+
+    min-height: 98vh;
+}
+
+.body{
+    flex-grow: 1;
+}
